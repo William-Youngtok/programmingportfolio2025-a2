@@ -2,6 +2,7 @@
 * Projected graduation 2028
 * Interests in Tennis
 * Have a little Experience in Python
+* Goal is to have more confidence in coding with Python
 
 ## Term 1
 
